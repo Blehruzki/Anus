@@ -1,7 +1,7 @@
 <div align="center">
 
-# yanu
-Yet Another NSP Updater for [Skyline](https://github.com/skyline-emu/skyline)
+# anus
+Another NSP Updater, Super (for [Skyline](https://github.com/skyline-emu/skyline))
 
 **Consider starring 🌟 the project if it helped**
 
@@ -11,7 +11,7 @@ Yet Another NSP Updater for [Skyline](https://github.com/skyline-emu/skyline)
 
 ## About
 
-**Yanu** is a **Nintendo Switch** ROM patcher made to be compatible with Skyline. The supported platforms currently consist of **Linux**, **Android w/Termux** and **Windows**.
+**Anus** is a **Nintendo Switch** ROM patcher made to be compatible with Skyline. The supported platforms currently consist of **Linux**, **Android w/Termux** and **Windows**.
 
 The software is to act as sort-of a band-aid until Skyline supports Updates/DLCs natively.
 
